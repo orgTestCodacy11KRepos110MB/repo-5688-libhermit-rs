@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["CallOnce","A synchronization primitive that can only be called once sucessfully."],["CallOnceError","The `CallOnceError` error indicates that [`CallOnce::call_once`] has been called more than once."],["ExclusiveCell","A synchronization primitive which can be accessed only once."]]};

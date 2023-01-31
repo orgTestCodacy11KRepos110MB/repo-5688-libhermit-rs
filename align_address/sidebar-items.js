@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["Align","An adress that can be aligned."]]};
